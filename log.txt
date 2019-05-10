@@ -1,0 +1,103 @@
+commit a78f08324c68c8e1051e41e5155d529e2139cae8
+Merge: 2b76d9a 937a957
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:25:26 2019 +0200
+
+    Conflitto risolto
+
+commit 937a9571144fa9d935836acea4ea1cdb3ef34888
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:21:45 2019 +0200
+
+    Inserito colore di sfondo blu
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..a8a5f43 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color.blue}
+\ No newline at end of file
+
+commit 2b76d9a552f3d84b4d1e2d1b13bf0b659d11466c
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:20:40 2019 +0200
+
+    Inserito colore di sfondo rosso
+
+diff --git a/css/style.css b/css/style.css
+index e69de29..36f400a 100644
+--- a/css/style.css
++++ b/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red}
+\ No newline at end of file
+
+commit 4332d093d62c15d96aa9fabdbfe3ffcfd262bf96
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:16:34 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/img/arpnet.jpg b/img/arpnet.jpg
+new file mode 100644
+index 0000000..6f6f8cb
+Binary files /dev/null and b/img/arpnet.jpg differ
+
+commit 354dbe708fd05c67fc0adbf4af71ac7b45340cd5
+Merge: 0d917ad fecf66a
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:13:16 2019 +0200
+
+    Fusione ramo Contatti
+
+commit fecf66a796ad699a907c15f0ea759d2464ec361f
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:12:09 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/css/widget.css b/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit b2b31303d357c387c154c4cbaf36f41aff99ce9b
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:11:30 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/contatti.html b/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit d8ef2be8b7f8fdf20f563a11b6ea7d9d92d46a1c
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:09:28 2019 +0200
+
+    Inserita immagine
+
+diff --git a/img/2.jpg b/img/2.jpg
+new file mode 100644
+index 0000000..7776f39
+Binary files /dev/null and b/img/2.jpg differ
+
+commit 0d917adf081e4af7e780bd056a5dfe290a747265
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:07:27 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/home.html b/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 868db419d8d1d039fd2eb75d133ed861cefd0e7b
+Author: Faur Constantin <studente.faur.constantin@gmail.com>
+Date:   Fri May 10 11:05:19 2019 +0200
+
+    Prima commit
+
+diff --git a/css/style.css b/css/style.css
+new file mode 100644
+index 0000000..e69de29
